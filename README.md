@@ -1,4 +1,4 @@
-# Twitter-sentiment-analysis-different-graphs
+# sentiment-analysis-different-graphs
 
 # McDonald's Menu Analysis with Plotly
 
